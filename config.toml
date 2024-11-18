@@ -1,4 +1,4 @@
-baseURL               = "https://xiaobot.shop"
+baseURL               = "xiaobot.shop"
 languageCode          = "zh-CN"
 title                 = "小报童网址导航"
 theme                 = "WebStack-Hugo"
