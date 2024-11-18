@@ -1,11 +1,36 @@
-- item: 首页
+- item: 精选
   icon: fa fa-home
-  link: "https://xiaobot.shop"
+  link: "./"
 
-- item: 作者
+- item: AI应用
   icon: fab fa-hive
-  link: https://xiaobot.shop
+  link: "./ai"
 
+- item: 赚钱
+  icon: fab fa-hive
+  link: "./makemoney"
+
+- item: 自媒体
+  icon: fab fa-hive
+  link: "./selfmedia"
+
+  - item: 个人成长
+  icon: fab fa-hive
+  link: "./growth"
+
+  - item: 运营
+  icon: fab fa-hive
+  link: "./operations"
+
+  - item: 职场
+  icon: fab fa-hive
+  link: "./work"
+
+  - item: 工具
+  icon: fab fa-hive
+  link: "./tools"
+
+  
 # - item: 设置
 #   icon: fa fa-cog
 #   link: ""
